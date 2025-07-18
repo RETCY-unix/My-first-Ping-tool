@@ -21,8 +21,8 @@ A lightweight, custom implementation of the classic `ping` command written in C.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ping-tool.git
-cd ping-tool
+git clone https://github.com/RETCY-unix/My-first-Ping-tool.git
+cd My-first-Ping-tool
 ```
 
 2. Compile the program:
