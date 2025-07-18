@@ -13,7 +13,7 @@ A lightweight, custom implementation of the classic `ping` command written in C.
 
 ## Requirements
 
-- Linux or Unix-like operating system
+- Linux or Unix-like operating system (Or WSL)
 - GCC compiler
 - Root privileges (required for raw socket creation)
 
